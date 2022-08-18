@@ -22,6 +22,7 @@ https://github.com/ndrppnc/cloud-hw1-starter
 ## Connection between frontend and backend
 
 Use Amazon API Gateway to set up API. A post method is created to send the parameters collected from the user to the backend
+
 ![image](https://user-images.githubusercontent.com/91846138/185469842-b0206a45-68c7-4a6b-8ff8-a7733cced000.png)
 
 
