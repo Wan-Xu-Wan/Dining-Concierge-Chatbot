@@ -66,6 +66,6 @@ Use SNS to send customers over restaurant suggestion text message to their email
     - format recommendation suggestion and send it over to the customer using SNS
     
 ### CloudWatch
-Use to trigger Lambda Function LF1 every a few seconds
+Use to trigger Lambda Function LF2 every a few seconds
 
 
